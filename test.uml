@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="225.0">javafx.web</node>
+    <node x="157.0" y="75.0">javafx.swing</node>
+    <node x="0.0" y="150.0">javafx.base</node>
+    <node x="169.0" y="0.0">javafx.controls</node>
+    <node x="0.0" y="0.0">javafx.graphics</node>
+    <node x="148.0" y="150.0">javafx.fxml</node>
+    <node x="0.0" y="75.0">javafx.media</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="145.5" y="127.5" />
+  <SelectedNodes>
+    <node>javafx.graphics</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>protected</VISIBILITY>
+</Diagram>
+

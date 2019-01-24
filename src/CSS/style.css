@@ -1,0 +1,54 @@
+root { 
+    display: block;
+  
+}
+.root {
+-fx-background-image: url("background.jpg");
+ 
+}
+
+
+.label{
+   -fx-font-size: 16px;
+    -fx-text-fill: black;
+   -fx-font-family: "Consolas Black";
+   -fx-font-weight: bold;
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+
+#actiontarget {
+  -fx-fill: FIREBRICK;
+  -fx-font-weight: bold;
+  -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );  
+}
+#Tbutton_Connexion{
+    -fx-text-fill: black;
+    -fx-font-family: "Consolas Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+#Tbutton_Connexion:selected{
+    -fx-text-fill: black;
+    -fx-font-family: "Consolas Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#2A5058,#61a2b1);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+#Tbutton_Mode{
+    -fx-text-fill: black;
+    -fx-font-family: "Consolas Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+#Tbutton_Mode:selected{
+    -fx-text-fill: black;
+    -fx-font-family: "Consolas Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#2A5058,#61a2b1);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
